@@ -11,13 +11,13 @@ Here's a list of my experiences and skills.
 ### NuruData
 **Co-Founder**
 - Developed a marketplace platform for sustainable waste management.
-- Designed and implemented data pipelines using Python.
-- [NuruData Website](https://nurudata.com) (Please replace with the actual URL)
+- [NuruData Website](https://nurudata.com)
 
 ### Acies Crest
 **Founder**
 - Created data analytics tools for decision-makers in governance, economic, environmental, and social sectors.
-- [Acies Crest Website](https://aciescrest.com) (Please replace with the actual URL)
+- Designed and implemented data pipelines using Python.
+- [Acies Crest Website](https://aciescrest.com)
 
 ### Apache Airflow
 **Open Source Developer**
