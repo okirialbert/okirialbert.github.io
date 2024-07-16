@@ -33,7 +33,7 @@ I've worked on a number of projects, both personal and professional. Here are a 
 * [Acies Crest](https://aciescrest.com/) - A for-profit social enterprise that aims to improve the decision making processes for governance, economic and social initiative entities.
 * [NuruData](https://nurudata.com/) - A waste management platform that offers a marketplace connecting waste producers with recycling entities and waste management firms.
 * [Apache Airflow](https://airflow.apache.org/) - A platform for programmatically authoring, scheduling, and monitoring workflows.
-* [Packt](https://www.packtpub.com/en-us/).
+* [Packt](https://www.packtpub.com/en-us/) - Technical Reviewer.
 * [My Portfolio](https://okirialbert.github.io/) - This website.
 
 Read about my experience and skills in my [About](/about)
