@@ -6,7 +6,7 @@ layout: home
 title: Profile
 ---
 
-![Okiri Albert](/assets/pr.png)
+![Okiri Albert](/assets/pr4.png)
 
 [Resume](https://drive.google.com/file/d/1vTH6NWEMw6ph_fmRD9U0yMC6P5sk7Hc_/view?usp=sharing)
 
